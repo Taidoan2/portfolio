@@ -55,7 +55,7 @@ const Nav = ({openNav}: Props) => {
         {/* Button */}
         <div className="flex items-center justify-center space-x-4">
           <button
-            className=" md:px-10 md:py-3 text-blue-800 font-semibold sm:text-base text-sm bg-white
+            className="sm:block sm:px-8 md:px-10 md:py-3 px-8 py-3 text-blue-800 font-semibold sm:text-base text-sm bg-white
             hover:bg-gray-200 transition-all duration-200 rounded-lg
             "
           >

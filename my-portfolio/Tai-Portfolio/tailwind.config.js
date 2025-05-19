@@ -5,7 +5,11 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx}", // Quét các tệp trong thư mục app nếu bạn sử dụng thư mục app
   ],
   theme: {
-    extend: {},
+    extend: {
+      FontFamily: {
+        Roboto: ["Jersey M7", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 };

@@ -1,10 +1,13 @@
 import React from 'react'
 import './globals.css'
+import Home from '@/components/Home/Home'
 
-const page = () => {
+const HomePage = () => {
   return (
-    <div className='nav__link'>page</div>
+    <div>
+      <Home/>
+    </div>
   )
 }
 
-export default page
+export default HomePage

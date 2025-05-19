@@ -2,7 +2,7 @@ export const BaseInfo = {
   name: "Đoàn Anh Tài",
   position: "Font-end Developer",
   description:
-    "I am a front-end developer passionate about learning and constantly committed to enhancing my web development skills. I am eager to contribute to real-world projects and learn from industry experts.Over the past year, I have focused on learning front-end web development. Currently, I am confident that my abilities will meet the requirements and tasks assigned to me.",
+    "I la am a front-end developer passionate about learning and constantly committed to enhancing my web development skills. I am eager to contribute to real-world projects and learn from industry experts.Over the past year, I have focused on learning front-end web development. Currently, I am confident that my abilities will meet the requirements and tasks assigned to me.",
   profilePic: "/images/Avatatrang.png",
 };
 

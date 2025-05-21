@@ -26,8 +26,8 @@ const Hero = () => {
                     </button>
                 </div>
                 {/* hinh anh */}
-                <div className='mx-auto hidden lg:block rounded-[3rem] border-[3.5px] border-white overflow-x-hidden'>
-                    <Image src={BaseInfo.profilePic} alt={BaseInfo.name} width={400} height={400}/>
+                <div className='mx-auto hidden lg:block rounded-[3rem] border-[3.5px] border-black overflow-x-hidden'>
+                    <Image src={BaseInfo.profilePic} alt={BaseInfo.name} width={300} height={300}/>
                 </div>
                 
             </div>

@@ -7,13 +7,13 @@ export const BaseInfo = {
 };
 
 export const aboutInfo = {
-  title: "Crafting Web Application with Passion and Precision",
+  title: "Building the Web, One Line of Code at a Time",
   description:
-    "At webdev warriors, we’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals",
+    "I am a passionate and eager team member in design and development. With a strong drive to learn and adapt quickly, I help businesses create simple yet effective web solutions to enhance their online presence and achieve their goals.",
   client: "50+",
   experience: "3+",
-  project: "200+",
-  website: "100+",
+  project: "2+",
+  website: "1+",
 };
 
 export const servicesData = [
